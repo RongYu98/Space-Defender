@@ -6,9 +6,8 @@ Guidelines:
 I. User will be able to control a ship and shoot using that ship.
     A. Will make a ship class and a bullet class.
 II. There will be enemies appearing in simple formation, and they will randomly shoot.
-    A. Make collision and hit functions.
-III. A high score will be kept along with a name.
-    A. Make a save and load function for scores
+    A. Make hit functions.
+III. Define a boarder for all movement.
 IV. Powerups will be dropped.
     A. Frequency of shots.
     B. Piercing of shots.
